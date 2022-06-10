@@ -1,7 +1,7 @@
 - # Sobre mim 
 - 👋 Olá meu nome é @isabelperpetua
 - 👍 Meu contato é [email](isabel.strapasson@escola.pr.gov.br)
-- 👀 Estou interessada em dormir 
+- 👀 Estou interessada em aprender
 - 🌱 Estou aprendendo linguagens
 
 <!---
